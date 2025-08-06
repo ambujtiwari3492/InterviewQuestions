@@ -1,0 +1,51 @@
+1. What’s the difference between == and .equals() in Java?
+
+2. Explain HashMap internal working with hashCode() and equals().
+
+3. Find the second highest number from an array (code logic)
+
+4. Find frequency of characters in a String array
+
+5. What is StringBuilder vs StringBuffer?
+
+6. Difference between ArrayList and LinkedList?
+
+7. Explain how garbage collection works in Java
+
+8. Write a SQL query to get third highest salary per department
+
+9. Difference between INNER JOIN vs LEFT JOIN
+
+10. What are Spring Boot starters?
+
+11. What is @RestController and how does it differ from @Controller?
+
+12. Write an API with basic CRUD + exception handling using @ControllerAdvice 
+
+💡 Focus: Internal working, coding ability, DB logic & Spring annotations
+
+---
+
+🚀 Technical Round 2 – Microservices, Spring Security, API Design, Real-time
+
+1. How does Spring Security filter chain work internally?
+
+2. What is the flow of authentication using JWT?
+
+3. How to implement rate-limiting in Spring Boot APIs?
+
+4. Difference between PUT, POST, PATCH with example
+
+5. What are distributed transactions and how do you handle failure?
+
+6. What happens if a dependent microservice is down?
+
+7. What is Circuit Breaker? When to use Resilience4j?
+
+8. How to secure APIs using roles and permissions in Spring Security?
+
+9. How would you scale a microservice to handle 100K+ requests?
+
+10. Difference between @Component, @Service, and @Repository
+
+11. Explain the use of @Transactional, rollback scenarios?
